@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "First Post",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/2022/04/21/first-post",
+      "date"     : "2022-04-21 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Difference between font formats",
       "description" : "What is the difference between various font formats?",
       "category" : "",
