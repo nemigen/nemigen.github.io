@@ -4,7 +4,7 @@
  <title>nem igen.</title>
  <link href="https://nemigen.github.io/atom.xml" rel="self"/>
  <link href="https://nemigen.github.io/"/>
- <updated>2022-04-21T00:40:27+02:00</updated>
+ <updated>2022-04-21T00:43:34+02:00</updated>
  <id>https://nemigen.github.io</id>
  <author>
    <name>jd</name>
@@ -20,6 +20,9 @@
    <content type="html">&lt;h2 id=&quot;the-first-post-of-this-new-blog&quot;&gt;the first post of this new blog&lt;/h2&gt;
 
 &lt;p&gt;hmmmm, is this &lt;strong&gt;really&lt;/strong&gt; going to work?&lt;/p&gt;
+
+&lt;h2 id=&quot;another-sub-post&quot;&gt;another sub-post&lt;/h2&gt;
+&lt;p&gt;jflkd jdf jdkd kdk&lt;/p&gt;
 </content>
  </entry>
  

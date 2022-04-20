@@ -20,8 +20,8 @@
             "id": "https://nemigen.github.io/2022/04/21/first-post",
             "title": "First Post",
             "summary": null,
-            "content_text": "the first post of this new bloghmmmm, is this really going to work?",
-            "content_html": "<h2 id=\"the-first-post-of-this-new-blog\">the first post of this new blog</h2><p>hmmmm, is this <strong>really</strong> going to work?</p>",
+            "content_text": "the first post of this new bloghmmmm, is this really going to work?another sub-postjflkd jdf jdkd kdk",
+            "content_html": "<h2 id=\"the-first-post-of-this-new-blog\">the first post of this new blog</h2><p>hmmmm, is this <strong>really</strong> going to work?</p><h2 id=\"another-sub-post\">another sub-post</h2><p>jflkd jdf jdkd kdk</p>",
             "url": "https://nemigen.github.io/2022/04/21/first-post",
             
             
