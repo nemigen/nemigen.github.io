@@ -4,7 +4,7 @@
  <title>nem igen.</title>
  <link href="https://nemigen.github.io/atom.xml" rel="self"/>
  <link href="https://nemigen.github.io/"/>
- <updated>2022-04-21T00:37:48+02:00</updated>
+ <updated>2022-04-21T00:40:27+02:00</updated>
  <id>https://nemigen.github.io</id>
  <author>
    <name>jd</name>
@@ -17,7 +17,7 @@
    <link href="https://nemigen.github.io/2022/04/21/first-post"/>
    <updated>2022-04-21T00:00:00+02:00</updated>
    <id>https://nemigen.github.io/2022/04/21/first-post</id>
-   <content type="html">&lt;h2 id=&quot;the-first-post&quot;&gt;the first post&lt;/h2&gt;
+   <content type="html">&lt;h2 id=&quot;the-first-post-of-this-new-blog&quot;&gt;the first post of this new blog&lt;/h2&gt;
 
 &lt;p&gt;hmmmm, is this &lt;strong&gt;really&lt;/strong&gt; going to work?&lt;/p&gt;
 </content>
