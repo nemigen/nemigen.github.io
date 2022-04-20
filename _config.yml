@@ -1,10 +1,10 @@
 site: nem igen.
 title: nem igen.
-greetings: welcome
+greetings: nem igen / igen nem
 description: >-
   jd texts
 lang: en-US
-timezone:  Europe/Rome
+timezone:  Europe/Budapest
 repo: https://github.com/p0wex/Gesko # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 discus-identifier: powex # replace with your disqus shortname
@@ -15,7 +15,7 @@ author:
   userpicture: 
   username: # general username
   github: # github username
-  twitter: redjade:hu
+  twitter: redjade_hu
   email: jd.makemedia@gmail.com # email address
 
 # Font Settings
