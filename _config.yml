@@ -1,8 +1,8 @@
 site: nem igen.
 title: nem igen.
-greetings: nem igen / igen nem
+greetings: nemigen / igennem
 description: >-
-  jd texts
+  jd texts & images
 lang: en-US
 timezone:  Europe/Budapest
 repo: https://github.com/p0wex/Gesko # site repo [optional]
@@ -14,7 +14,7 @@ author:
   bio: jd texts
   userpicture: 
   username: # general username
-  github: # github username
+  github: # github nemigen
   twitter: redjade_hu
   email: jd.makemedia@gmail.com # email address
 
